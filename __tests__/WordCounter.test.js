@@ -8,7 +8,6 @@ import Counter from "../src/Counter";
 import countWords from "../src/countWords";
 import ProgressBar from "../src/ProgressBar";
 
-
 configure({ adapter: new Adapter() });
 
 describe ("the count function",()=>{
